@@ -1,0 +1,100 @@
+{
+    "id": "639bc4d83b867100010cf851",
+    "ownerID": "639af2c9c6355b1cd52fe516",
+    "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+    },
+    "timeLastJoined": "0001-01-01T00:00:00Z",
+    "activeParticipants": [
+        {
+            "id": "639af2c9c6355b1cd52fe516",
+            "displayName": "Apolostudios / Metaverse Developer",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "spatialcontent://item:s6psffI4GQJl-bfLtJawO",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/639af4d00eab23107f35642d.glb?updatedAt=1686746863084",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "CREATOR_TOOLKIT"
+            },
+            "appearanceCustomization": {
+                "profileColor": "tan"
+            },
+            "clientPlatforms": [
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web",
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "63ca91aca9db2ae17933b788",
+            "displayName": "Chisako1414",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/d92NfC5Ud.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_formal/model.glb",
+                "filename": "",
+                "skinColorOverride": "f3eddb",
+                "shirtColorOverride": "ff4cd8",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/d92NfC5Ud.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/6459e64b7593f08e15dfd354.glb?updatedAt=1692278582900",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "blue"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        }
+    ],
+    "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+    ],
+    "createdAt": "2022-12-16T01:07:36.975Z",
+    "users": [
+        "639af2c9c6355b1cd52fe516",
+        "63ca91aca9db2ae17933b788"
+    ],
+    "activeParticipantCount": 11,
+    "likes": 259,
+    "views": 4716,
+    "isInstanceable": false,
+    "likedSpace": false,
+    "promoted": true,
+    "lastPromoted": "2023-09-06T14:40:14.017529Z"
+}

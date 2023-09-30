@@ -1,0 +1,194 @@
+{
+    "id": "639bc4d83b867100010cf851",
+    "ownerID": "639af2c9c6355b1cd52fe516",
+    "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios"
+    },
+    "timeLastJoined": "0001-01-01T00:00:00Z",
+    "activeParticipants": [
+        {
+            "id": "639af2c9c6355b1cd52fe516",
+            "displayName": "Apolostudios",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_jacket/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/639af4d00eab23107f35642d.glb?updatedAt=1686746863084",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "tan"
+            },
+            "clientPlatforms": [
+                "Web",
+                "Web",
+                "Web",
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "64abe1f999840efddcf69d80",
+            "displayName": "Marian-33",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/ZNqIDjwok.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_tshirt/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/ZNqIDjwok.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/64a7e287682160d141fa1c65.glb?updatedAt=1688993268481",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "tan"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "62b7f6129a3c7c241c7f1f68",
+            "displayName": "STEVE SAIKO",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/bj7lAO2q1.png",
+            "avatarData": {
+                "avatarUserID": "8ec134ae-4360-4d25-8e7c-889152097a0c",
+                "avatarID": "d629fd60-321b-40bc-a1c2-80f54853572b",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_tshirt/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "278ff0",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/bj7lAO2q1.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/62bbd98548960be56eb3bbdf.glb?updatedAt=1693605116207",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "purple"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "627d7dfeeff61700019fe185",
+            "displayName": "Ira X Lab / Spatian Guide",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/MNVNDF7VP.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "spatialcontent://unityPackage:64bd7e81d08f29bc6f3756a9:0",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/MNVNDF7VP.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/631d5da63a656b9c32056699.glb?updatedAt=1691954428675",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "CREATOR_TOOLKIT"
+            },
+            "appearanceCustomization": {
+                "profileColor": "blue"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "64f227de4e139bba10a58e86",
+            "displayName": "no",
+            "profilePicURL": "",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "REALISTIC"
+            },
+            "appearanceCustomization": {
+                "profileColor": "teal"
+            },
+            "clientPlatforms": [
+                "Android"
+            ],
+            "permissions": []
+        }
+    ],
+    "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+    ],
+    "createdAt": "2022-12-16T01:07:36.975Z",
+    "users": [
+        "639af2c9c6355b1cd52fe516",
+        "64abe1f999840efddcf69d80",
+        "64f25a4658e94e07225e42c6",
+        "62b7f6129a3c7c241c7f1f68",
+        "627d7dfeeff61700019fe185",
+        "64f227de4e139bba10a58e86"
+    ],
+    "activeParticipantCount": 9,
+    "likes": 216,
+    "views": 3792,
+    "isInstanceable": false,
+    "likedSpace": false,
+    "promoted": true,
+    "lastPromoted": "2023-09-01T17:31:19.623727Z"
+}

@@ -1,0 +1,194 @@
+{
+    "id": "639bc4d83b867100010cf851",
+    "ownerID": "639af2c9c6355b1cd52fe516",
+    "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios"
+    },
+    "timeLastJoined": "0001-01-01T00:00:00Z",
+    "activeParticipants": [
+        {
+            "id": "639af2c9c6355b1cd52fe516",
+            "displayName": "Apolostudios",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_jacket/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/639af4d00eab23107f35642d.glb?updatedAt=1686746863084",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "tan"
+            },
+            "clientPlatforms": [
+                "Web",
+                "Web",
+                "Web",
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "63834d87c3c40face2aed2d5",
+            "displayName": "Julio33",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/CniAvudnU.png",
+            "avatarData": {
+                "avatarUserID": "cf835f0c-2543-45ac-98a1-e0f441eefaf8",
+                "avatarID": "fb35900e-758c-438a-97b9-cb8de7c16cab",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_formal/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/CniAvudnU.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/6383506ba7399ec52239de77.glb",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "pink"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "64f21bad14b03f63dc457593",
+            "displayName": "Lurbego",
+            "profilePicURL": "",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "REALISTIC"
+            },
+            "appearanceCustomization": {
+                "profileColor": "blue"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "646e307b907ec768445d1442",
+            "displayName": "Jasmine",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/22pRRoZMa.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_jacket/model.glb",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/22pRRoZMa.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/64bfccb3c2b4fb476a2fcd1b.glb?updatedAt=1690291617712",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "red"
+            },
+            "clientPlatforms": [
+                "iOS"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "64f2246758e94e07225e0067",
+            "displayName": "Dani",
+            "profilePicURL": "",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "",
+                "filename": "",
+                "skinColorOverride": "",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "REALISTIC"
+            },
+            "appearanceCustomization": {
+                "profileColor": "blue"
+            },
+            "clientPlatforms": [
+                "Meta Quest"
+            ],
+            "permissions": []
+        }
+    ],
+    "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+    ],
+    "createdAt": "2022-12-16T01:07:36.975Z",
+    "users": [
+        "639af2c9c6355b1cd52fe516",
+        "63834d87c3c40face2aed2d5",
+        "64f21bad14b03f63dc457593",
+        "646e307b907ec768445d1442",
+        "64f2251814b03f63dc458293",
+        "64f2246758e94e07225e0067"
+    ],
+    "activeParticipantCount": 9,
+    "likes": 205,
+    "views": 3632,
+    "isInstanceable": false,
+    "likedSpace": false,
+    "promoted": true,
+    "lastPromoted": "2023-09-01T17:31:19.623727Z"
+}

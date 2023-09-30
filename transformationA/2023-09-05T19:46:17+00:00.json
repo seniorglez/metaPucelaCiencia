@@ -1,0 +1,23 @@
+{
+    "id": "639bc4d83b867100010cf851",
+    "ownerID": "639af2c9c6355b1cd52fe516",
+    "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+    },
+    "timeLastJoined": "0001-01-01T00:00:00Z",
+    "activeParticipants": [],
+    "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+    ],
+    "createdAt": "2022-12-16T01:07:36.975Z",
+    "users": [],
+    "activeParticipantCount": 0,
+    "likes": 237,
+    "views": 4277,
+    "isInstanceable": false,
+    "likedSpace": false,
+    "promoted": false,
+    "lastPromoted": "2023-09-05T10:37:41.117619Z"
+}

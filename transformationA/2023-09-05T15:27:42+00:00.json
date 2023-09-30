@@ -1,0 +1,91 @@
+{
+    "id": "639bc4d83b867100010cf851",
+    "ownerID": "639af2c9c6355b1cd52fe516",
+    "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+    },
+    "timeLastJoined": "0001-01-01T00:00:00Z",
+    "activeParticipants": [
+        {
+            "id": "646c9a1770e046132769bfc6",
+            "displayName": "MARGA-33",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/8dkKzrFeh.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_tshirt/model.glb",
+                "filename": "",
+                "skinColorOverride": "f7d7c0",
+                "shirtColorOverride": "c0e12c",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/8dkKzrFeh.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://models.readyplayer.me/63bdaae05a5d0e0739cc2e14.glb?updatedAt=1692638558795",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "purple"
+            },
+            "clientPlatforms": [
+                "Web"
+            ],
+            "permissions": []
+        },
+        {
+            "id": "62919ba6cd353b000133c48a",
+            "displayName": "Paul kk",
+            "profilePicURL": "https://renderapi.s3.amazonaws.com/THaYyIJhV.png",
+            "avatarData": {
+                "avatarUserID": "",
+                "avatarID": "",
+                "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_hat/model.glb",
+                "filename": "",
+                "skinColorOverride": "dcb07c",
+                "shirtColorOverride": "",
+                "readyPlayerMeID": "",
+                "readyPlayerMeAvatarID": "",
+                "readyPlayerMeThumbnails": {
+                    "upperBody": "https://renderapi.s3.amazonaws.com/THaYyIJhV.png",
+                    "lowerBody": ""
+                },
+                "readyPlayerMeUrl": "https://d1a370nemizbjq.cloudfront.net/54b4390d-6b52-4d8b-8541-3b53d920ba28.glb",
+                "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+                "readyPlayerMeUrlCrunched": "",
+                "readyPlayerMeUrlCrunchedBrotli": "",
+                "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+                "activeAvatarStyle": "READY_PLAYER_ME"
+            },
+            "appearanceCustomization": {
+                "profileColor": "teal"
+            },
+            "clientPlatforms": [
+                "iOS"
+            ],
+            "permissions": []
+        }
+    ],
+    "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+    ],
+    "createdAt": "2022-12-16T01:07:36.975Z",
+    "users": [
+        "646c9a1770e046132769bfc6",
+        "62919ba6cd353b000133c48a"
+    ],
+    "activeParticipantCount": 2,
+    "likes": 237,
+    "views": 4270,
+    "isInstanceable": false,
+    "likedSpace": false,
+    "promoted": true,
+    "lastPromoted": "2023-09-05T10:37:41.117619Z"
+}
